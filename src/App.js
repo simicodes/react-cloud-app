@@ -15,7 +15,7 @@ function App() {
       <Support />
       <AllInOne />
       <Pricing />
-      <Footer/>
+      <Footer />
     </>
   );
 }
